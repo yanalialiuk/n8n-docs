@@ -33,6 +33,8 @@ This node supports two authentication options:
 - **Microsoft OAuth2 API**: a generic Microsoft Graph credential that you can reuse across other Microsoft nodes. When you select this option, make sure the credential is granted the scopes this node needs (for example, `Mail.ReadWrite`, `Mail.Send`, `Calendars.ReadWrite`, and `Contacts.ReadWrite`).
 
 Refer to [Microsoft credentials](../credentials/microsoft.md) for guidance on setting up authentication.
+
+You can authenticate with a client secret or a [certificate](../credentials/microsoft.md#authenticate-with-a-certificate).
 {% endhint %}
 
 {% hint style="info" %}

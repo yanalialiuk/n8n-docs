@@ -27,6 +27,8 @@ On this page, you'll find a list of operations the Microsoft Dynamics CRM node s
 **Credentials**
 
 Refer to [Microsoft credentials](../credentials/microsoft.md) for guidance on setting up authentication.
+
+You can authenticate with a client secret or a [certificate](../credentials/microsoft.md#authenticate-with-a-certificate).
 {% endhint %}
 
 ## Operations <a href="#operations" id="operations"></a>

@@ -27,6 +27,8 @@ On this page, you'll find a list of events the Microsoft Teams Trigger node can 
 **Credentials**
 
 You can find authentication information for this node [here](../credentials/microsoft.md).
+
+This node supports authenticating with a client secret or a [certificate](../credentials/microsoft.md#authenticate-with-a-certificate).
 {% endhint %}
 
 {% hint style="info" %}
